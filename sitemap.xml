@@ -48,10 +48,8 @@
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
-  
    
    <!-- Category Pages -->
-  
    <url>
       <loc>https://yourwebbuilder.github.io/resources/chat-documentation</loc>
       <lastmod>2024-09-04</lastmod>
@@ -65,5 +63,11 @@
       <priority>0.7</priority>
    </url>
    
- 
+   <!-- New XtarNet Page -->
+   <url>
+      <loc>https://yourwebbuilder.github.io/XtarNet</loc>
+      <lastmod>2024-09-07</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+   </url>
 </urlset>
